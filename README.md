@@ -1,4 +1,5 @@
-This is the implementation of the paper "A Generative Adversarial Framework for Bounding Confounded Causal Effects". 
+# Fair Multiple Decision Making Through Soft Interventions
+This is the official implementation of [A Generative Adversarial Framework for Bounding Confounded Causal Effects](). 
 Neural networks are written using PyTorch-1.4.0. (Make sure the PyTorch version is correct)
 
 ## Objective
